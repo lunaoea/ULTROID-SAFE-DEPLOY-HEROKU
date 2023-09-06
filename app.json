@@ -62,9 +62,9 @@
         }
     },
     "formation": {
-        "worker": {
+        "website": {
             "quantity": 1,
-            "size": "free"
+            "stack": "container"
         }
     }
 }
